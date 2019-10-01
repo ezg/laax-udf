@@ -1,6 +1,11 @@
 [
     {
-        "test" : "asdf",
-        "bla" : "asdf"
+        "name" : "trim"
+    },
+    {
+        "name" : "test"
+    },
+    {
+        "name" : "bla"
     }
 ]
