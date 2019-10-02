@@ -5,13 +5,13 @@
         "shortDescription" : "returns the first letter of the input values"
     },
     {
-        "name" : "test",
-        "code" : "",
-        "shortDescription" : ""
+        "name" : "square",
+        "code" : "input * input",
+        "shortDescription" : "square of the input value"
     },
     {
-        "name" : "bla",
-        "code" : "",
-        "shortDescription" : ""
+        "name" : "log",
+        "code" : "math.log(input)",
+        "shortDescription" : "log of the input value"
     }
 ]
