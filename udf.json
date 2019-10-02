@@ -1,8 +1,8 @@
 [
     {
-        "name" : "trim",
+        "name" : "first letter",
         "code" : "input[0]",
-        "shortDescription" : "trim whitespaces"
+        "shortDescription" : "returns the first letter of the input values"
     },
     {
         "name" : "test",
