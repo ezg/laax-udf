@@ -1,11 +1,17 @@
 [
     {
-        "name" : "trim"
+        "name" : "trim",
+        "code" : "";
+        "shortDescription" : "trim whitespaces"
     },
     {
-        "name" : "test"
+        "name" : "test",
+        "code" : "";
+        "shortDescription" : ""
     },
     {
-        "name" : "bla"
+        "name" : "bla",
+        "code" : "";
+        "shortDescription" : ""
     }
 ]
