@@ -13,5 +13,10 @@
         "name" : "log",
         "code" : "math.log(input)",
         "shortDescription" : "log of the input value"
+    },
+    {
+        "name" : "somthing fancy",
+        "code" : "math.log(input)",
+        "shortDescription" : "log of the input value"
     }
 ]
