@@ -10,7 +10,7 @@
         "shortDescription" : "square of the input value"
     },
     {
-        "name" : "log",
+        "name" : "logddd",
         "code" : "math.log(input)",
         "shortDescription" : "log of the input value"
     }
