@@ -17,7 +17,7 @@
     {
         "name" : "replace",
         "code" : "input",
-        "contentHtml" : "<span style=\"width: 100%; display: block;\">Replace:</span> <input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"Mouse\"></input> <span style=\"width: 100%; display: block; margin-top: 5px;\">With:</span><input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"Mouse\"></input>"
+        "contentHtml" : "<span style=\"width: 100%; display: block;\">Replace:</span> <input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input> <span style=\"width: 100%; display: block; margin-top: 5px;\">With:</span><input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input>"
     }
 ]
 
