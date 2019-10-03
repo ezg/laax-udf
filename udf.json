@@ -2,16 +2,16 @@
     {
         "name" : "first letter",
         "code" : "input[0]",
-        "shortDescription" : "returns the first letter of the input values"
+        "contentHtml" : "<span class=\"description\">returns the first letter of the input values</span>"
     },
     {
         "name" : "square",
         "code" : "input * input",
-        "shortDescription" : "square of the input value"
+        "contentHtml" : "<span class=\"description\">square of the input value</span>"
     },
     {
         "name" : "log",
         "code" : "math.log(input)",
-        "shortDescription" : "log of the input value"
+        "contentHtml" : "<span class=\"description\">log of the input value</span>"
     }
 ]
