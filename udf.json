@@ -17,7 +17,7 @@
     {
         "name" : "replace",
         "code" : "input.replace(inputData[0], inputData[1])",
-        "contentHtml" : "<span style=\"width: 100%; display: block;\">Replace:</span> <input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input> <span style=\"width: 100%; display: block; margin-top: 5px;\">With:</span><input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input>"
+        "contentHtml" : "<span style=\"width: 100%; display: block;\">replace:</span> <input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input> <span style=\"width: 100%; display: block; margin-top: 5px;\">with:</span><input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input>"
     }
 ]
 
