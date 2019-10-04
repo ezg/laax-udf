@@ -23,7 +23,7 @@
         "name" : "to bool",
         "code" : "True if input == 1 else False",
         "contentHtml" : "<span class=\"description\">convert value to boolean</span>"
-    },
+    }
 ]
 
 
