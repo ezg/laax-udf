@@ -11,7 +11,7 @@
     },
     {
         "name" : "log",
-        "code" : "math.log(input) if input != 0 else None",
+        "code" : "math.log(input) if input != 0 else 0",
         "contentHtml" : "<span class=\"description\">log of the input value</span>"
     },
     {
