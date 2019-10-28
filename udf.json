@@ -6,7 +6,7 @@
     },
     {
         "name" : "square",
-        "code" : "input * input",
+        "code" : ["input * input"],
         "contentHtml" : ["<span class=\"description\">square of the input value</span>"]
     },
     {
