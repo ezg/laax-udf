@@ -1,28 +1,28 @@
 [
     {
         "name" : "first letter",
-        "code" : "input[0]",
-        "contentHtml" : "<span class=\"description\">returns the first letter of the input values</span>"
+        "code" : ["input[0]"],
+        "contentHtml" : ["<span class=\"description\">returns the first letter of the input values</span>"]
     },
     {
         "name" : "square",
         "code" : "input * input",
-        "contentHtml" : "<span class=\"description\">square of the input value</span>"
+        "contentHtml" : ["<span class=\"description\">square of the input value</span>"]
     },
     {
         "name" : "log",
-        "code" : "math.log(input) if input != 0 else 0",
-        "contentHtml" : "<span class=\"description\">log of the input value</span>"
+        "code" : ["math.log(input) if input != 0 else 0"],
+        "contentHtml" : ["<span class=\"description\">log of the input value</span>"]
     },
     {
         "name" : "replace",
-        "code" : "str(input).replace(inputData[0], inputData[1])",
-        "contentHtml" : "<span style=\"width: 100%; display: block;\">replace:</span> <input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input> <span style=\"width: 100%; display: block; margin-top: 5px;\">with:</span><input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input>"
+        "code" : ["str(input).replace(inputData[0], inputData[1])"],
+        "contentHtml" : ["<span style=\"width: 100%; display: block;\">replace:</span> <input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input> <span style=\"width: 100%; display: block; margin-top: 5px;\">with:</span><input type=\"text\" style=\"width: 100%; display: block;\" name=\"lastname\" value=\"\"></input>"]
     },
     {
         "name" : "to bool",
-        "code" : "True if input == 1 else False",
-        "contentHtml" : "<span class=\"description\">convert value to boolean</span>"
+        "code" : ["True if input == 1 else False"],
+        "contentHtml" : ["<span class=\"description\">convert value to boolean</span>"]
     }
 ]
 
