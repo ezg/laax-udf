@@ -34,7 +34,7 @@
                       "from nltk.sentiment.vader import SentimentIntensityAnalyzer",
                       "sid = SentimentIntensityAnalyzer()"],
         "code" : ["sid.polarity_scores(input)['compound']"],
-        "contentHtml" : ["<span class=\"description\">sentiment analysis</span>",
+        "contentHtml" : ["<span style=\"width: 100%; display: block;\">sentiment analysis</span>",
                          "<span style=\"width: 100%; display: block;\">replace:</span>",
                          "<input type=\"text\" style=\"width: 100%; display: block;\" value=\"\"></input>"]
     }
