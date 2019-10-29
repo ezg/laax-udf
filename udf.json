@@ -26,6 +26,15 @@
         "name" : "to bool",
         "code" : ["True if input == 1 else False"],
         "contentHtml" : ["<span class=\"description\">convert value to boolean</span>"]
+    },
+     {
+        "name" : "sentiment analysis",
+        "setupCode": ["import nltk",
+                      "nltk.download('vader_lexicon')",
+                      "from nltk.sentiment.vader import SentimentIntensityAnalyzer",
+                      "sid = SentimentIntensityAnalyzer()"],
+        "code" : ["sid.polarity_scores(input)['compound']"],
+        "contentHtml" : ["<span class=\"description\">sentiment analysis</span>"]
     }
 ]
 
