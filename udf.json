@@ -32,7 +32,7 @@
         "setupCode": ["import nltk",
                       "nltk.download('vader_lexicon')",
                       "from nltk.sentiment.vader import SentimentIntensityAnalyzer",
-                      "sid = SentimentIntensityAnalyzer()"]
+                      "sid = SentimentIntensityAnalyzer()"],
         "code" : ["sid.polarity_scores(input)['compound']"],
         "contentHtml" : ["<span class=\"description\">sentiment analysis</span>"]
     }
